@@ -1,0 +1,13 @@
+# Base de datos generada por el pipeline (no se versiona)
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Sistema
+.DS_Store
